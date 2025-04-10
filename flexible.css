@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS */
+
+.flexbox{
+display: flex;
+border: 2px solid blue;
+background-color: green;
+padding: 5px;
+width: 50%px;
+}
+#blanco{
+padding: 15px;
+margin: 15px;
+background-color: white;
+}
+#morado{
+padding: 15px;
+margin: 15px;
+background-color: purple;
+}
+#celeste{
+padding: 15px;
+margin: 15px;
+background-color: skyblue;
+}
+#rosado{
+padding: 15px;
+margin: 15px;
+background-color: pink;
+}
+#amarillo{
+padding: 15px;
+margin: 15px;
+background-color: yellow;
+}
+
